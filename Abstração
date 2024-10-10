@@ -1,4 +1,4 @@
-package com.mycompany.mavenproject1;
+package com.mycompany.prova
 
 class Prova {
     private double notaAV1;
